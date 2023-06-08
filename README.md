@@ -2,7 +2,7 @@
 
 <h3> Um pouco sobre mim: </h3>
 - 🔭 Estou procurando minhas primeiras oportunidades de trabalho. A melhor parte é colocar o que aprendemos em prática! <br>
-- 🌱 Atualmente aprendendo JavaScript; <br>
+- 🌱 Atualmente aprendendo JQuary; <br>
 - 📫 Dê uma olhada no meu Linkedin: https://www.linkedin.com/in/matheus-souza-2a2198263 <br>
 - ⚡ Já fui atleta por um tempo...
 

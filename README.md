@@ -1,5 +1,13 @@
 ### Olá!
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/header-gif.gif">
+
 <h3> Um pouco sobre mim: </h3>
 - 🔭 Estou procurando minhas primeiras oportunidades de trabalho. A melhor parte é colocar o que aprendemos em prática! <br>
 - 🌱 Atualmente aprendendo ReactJS; <br>

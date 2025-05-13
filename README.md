@@ -1,5 +1,3 @@
-### Olá!
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Matheus+Souza!" alt="Typing SVG" />  </a>
 </div>
